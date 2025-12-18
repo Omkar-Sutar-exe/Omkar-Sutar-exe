@@ -24,7 +24,6 @@ cpp,html,css,react,nodejs,mongodb,mysql,linux,py,tensorflow,opencv,express,git,g
 
 ## Recent Activity
 
-- Created a new repository for my profile on July 12, 2025.
 - Committed changes to my personal profile repository.
 - Engaged with the GitHub community through various activities.  
 🔗 [View my activity](https://github.com/Omkar-Sutar-exe/events)
