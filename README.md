@@ -35,5 +35,6 @@ Currently, I do not have any blog posts published. Stay tuned for upcoming artic
 ## Connect with Me
 
 itsofficialomkar@gmail.com
+
 https://www.linkedin.com/in/omkar-sutar-bb5359264
 
